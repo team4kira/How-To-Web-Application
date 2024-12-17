@@ -17,9 +17,9 @@ Steps in Azure:
   - Name (for organizational purposes) 
   -	Plan (there is free for those using it as a hobby or standard for production web applications) 
 3.	Login with GitHub (Enter the Following)
-  1.	Organization (GitHub account name) 
-  2.	Repository – make sure it is the same repository you upload your web application files too. 
-  3.	Branch – main 
+  - Organization (GitHub account name) 
+  -	Repository – make sure it is the same repository you upload your web application files too. 
+  -	Branch – main 
 4.	Tags – optional 
 5.	Create 
 6.	After it propagates you should be given an auto-generated name like something-randm-5sd45a.4.azurestaticapp.net. If you don’t like the auto-generated name, follow the next steps to get an inexpensive domain name from GoDaddy. 
