@@ -1,4 +1,4 @@
-# How-To-Web-Application
+# How to Create a Free Web Application on Azure
 How to Setup a Web Application using GitHub and Azure
 
 How To: 
