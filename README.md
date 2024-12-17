@@ -10,16 +10,17 @@ Steps in GitHub
 4.	Ensure that the site is working in live view of Virtual Studio Code, if it is functional, you should upload it to the GitHub repository. 
 
 Steps in Azure: 
-1.	Go to Static Web Apps
+1.	Go to Static Web Apps followed by Create Static Web App 
 2.	Create (Enter the Following After)
   -	Subscription (should auto populate, unless you have more than one)
   -	Resource Group (if you don’t have one you can create a new one) 
   - Name (for organizational purposes) 
-  -	Plan (there is free for those using it as a hobby or standard for production web applications) 
-3.	Login with GitHub (Enter the Following)
+  -	Plan (there is a free option for those doing this as a hobby. This entitles you to two free Web Applications)
+  -	Region for Azure environment - choose a region near your geographical location
+3.	In this same page under Deployment Details select GitHub and Login with GitHub (Enter the Following)
   - Organization (GitHub account name) 
-  -	Repository – make sure it is the same repository you upload your web application files too. 
+  -	Repository – make sure it is the same repository you uploaded your web application files to. 
   -	Branch – main 
 4.	Tags – optional 
 5.	Create 
-6.	After it propagates you should be given an auto-generated name like something-randm-5sd45a.4.azurestaticapp.net. If you don’t like the auto-generated name, follow the next steps to get an inexpensive domain name from GoDaddy. 
+6.	After it propagates you should be given an auto-generated name like something-random.azurestaticapp.net. If you don’t like the auto-generated name, you can use sites like GoDaddy to change the domain name for a nominal fee
