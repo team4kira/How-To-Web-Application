@@ -11,13 +11,13 @@ Steps in GitHub
 
 Steps in Azure: 
 1.	Go to Static Web Apps followed by Create Static Web App 
-2.	Create (Enter the Following After)
+2.	Create | Enter the Following After: 
   -	Subscription (should auto populate, unless you have more than one)
   -	Resource Group (if you don’t have one you can create a new one) 
   - Name (for organizational purposes) 
   -	Plan (there is a free option for those doing this as a hobby. This entitles you to two free Web Applications)
   -	Region for Azure environment - choose a region near your geographical location
-3.	In this same page under Deployment Details select GitHub and Login with GitHub (Enter the Following)
+3.	In this same page under Deployment Details select GitHub and Login with GitHub | Enter the Following: 
   - Organization (GitHub account name) 
   -	Repository – make sure it is the same repository you uploaded your web application files to. 
   -	Branch – main 
